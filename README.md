@@ -1,2 +1,2 @@
 # SQL-Exercise
-A collection m=of SQL practices
+A collection of my SQL practices
