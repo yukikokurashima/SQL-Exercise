@@ -1,2 +1,2 @@
 # SQL-Exercises
-#Collection of mySQL
+Collection of mySQL
