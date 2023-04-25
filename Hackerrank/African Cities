@@ -2,4 +2,4 @@ select CITY.NAME
 from city
 inner join country
 on CITY.CountryCode =COUNTRY.Code 
-where country.continent = 'africa';
+where country.continent = 'africa'
