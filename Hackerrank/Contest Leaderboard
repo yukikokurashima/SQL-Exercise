@@ -9,4 +9,4 @@ group by h.hacker_id, name
 
 having total_score > 0
 
-order by total_score desc, h.hacker_id
+order by total_score desc, h.hacker_id;
