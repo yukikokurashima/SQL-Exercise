@@ -1,0 +1,2 @@
+select user_id, name, case when mail '%@leetcode.com' and 
+from users
