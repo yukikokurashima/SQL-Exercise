@@ -4,4 +4,5 @@ select sell_date, count( DISTINCT product ) as num_sold ,
      order by product ASC
       separator ',' ) as products
     
-        FROM Activities GROUP BY sell_date order by sell_date ASC;
+        FROM Activities 
+        GROUP BY sell_date order by sell_date ASC;
